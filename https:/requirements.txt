@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+opencv-python-headless
+mediapipe
+numpy
+Pillow
+arabic-reshaper
+python-bidi
